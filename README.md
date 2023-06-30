@@ -30,6 +30,13 @@
 - Es
 - ClickHouse
 
+## 消息系统
+- Nsq
+- Kafka
+
+## 日志系统
+- Loki
+
 ## 网关
 - `Nginx`
 - `KrakenD`
